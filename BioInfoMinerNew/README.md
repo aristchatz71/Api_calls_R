@@ -62,7 +62,7 @@ helpers.R and constant_variables.R define internal helpers and paths.
 install.packages("remotes")
 
 remotes::install_github(
-  "zisis86/Api_calls_R",
+  "aristchatz71/Api_calls_R",
   subdir = "BioInfoMinerNew"
 )
 

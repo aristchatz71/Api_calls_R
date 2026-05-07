@@ -1,7 +1,7 @@
 # BioInfoMiner Library 
 
 Goal: BioInfoMiner is an R package for interacting with the BioInfoMiner API. It helps create projects, run experiments, and fetch results.
-GitHub: https://github.com/zisis86/Api_calls_R/edit/main/BioInfoMinerNew  
+GitHub: https://github.com/aristchatz71/Api_calls_R/edit/main/BioInfoMinerNew  
 
 Implementation of the tool includes the following sections that enables you to:
 - Projects : Create BioInfoMiner projects / Delete of a Project.

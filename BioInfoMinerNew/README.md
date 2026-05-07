@@ -19,7 +19,7 @@ R Studio Environment:
  Language: R | It is recommended to use R Studio environment for the installation and execution of the Library. 
 
 GitHub repository:
-https://github.com/zisis86/Api_calls_R
+https://github.com/aristchatz71/Api_calls_R
 
 ---
 

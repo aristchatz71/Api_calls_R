@@ -307,6 +307,6 @@ bim_systemic_viewer(ontology = "GO")
 ## Contact
 
 E-NIOS Bioinformatics Services  
-Email: zisis@e-nios.com  
+Email: achatzi@e-nios.com  
 Website: https://www.e-nios.com/
 

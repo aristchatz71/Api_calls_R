@@ -138,7 +138,7 @@ if (experiment_id != "") {
 results <- wait_for_bim_completion(
   headers,
   experiment_id,
-  ontology   = "GO",   # or "all", "BP", "MF", etc.
+  ontology   = "GO",   # or "all" or "BP", "MF", "CC", "MGIMP", "Reactome", "HPO"
   max_checks = 10,     # number of retries
   delay_sec  = 20      # seconds between retries
 )

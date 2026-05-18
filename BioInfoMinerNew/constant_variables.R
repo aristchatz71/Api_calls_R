@@ -1,5 +1,5 @@
 #base_url <- "https://bim3.e-nios.com/api/"
-#api_key <- "leq3vxq1812k4of6xrbdy2ekj43u4up3"
+#api_key <- "YOUR_API_KEY_HERE"
 # url = 'http://localhost:3000/api/'
 url <- 'https://bim3.e-nios.com/api/'
 

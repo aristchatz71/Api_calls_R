@@ -4,14 +4,14 @@ library(jsonlite)
 
 # Define constants
 url <- "https://bim3.e-nios.com/api/"
-api_key <- "leq3vxq1812k4of6xrbdy2ekj43u4up3"
+api_key <- "YOUR_API_KEY_HERE"
 headers <- c(
   `Content-Type` = "application/json",
   `enios-api-key` = api_key
 )
 
 #headers <- add_headers(
-#  'enios-api-key' = 'leq3vxq1812k4of6xrbdy2ekj43u4up3',  # Replace with your API key if available
+#  'enios-api-key' = 'YOUR_API_KEY_HERE',  # Replace with your API key if available
 #  'Content-Type' = 'application/json'
 #)
 # Function to create a project

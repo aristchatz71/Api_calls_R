@@ -8,7 +8,7 @@ url <- 'https://bim3.e-nios.com/api/'
 #  'Content-Type' = 'application/json'
 #)
 
-api_key <- "leq3vxq1812k4of6xrbdy2ekj43u4up3"
+api_key <- "your api key"
 headers <- c(
   `Content-Type` = "application/json",
   `enios-api-key` = api_key
